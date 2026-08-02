@@ -43,7 +43,7 @@ The full reasoning behind these design decisions, the standards referenced (NIST
  
 This is a single self-contained HTML file — no installation, build step, or server required.
  
-1. Download `Chain Of Custody Web App.html` from this repository.
+1. Download `Chain-Of-Custody-Web-App.html` from this repository.
 2. Open it in any modern browser (Chrome, Edge, or Firefox) by double-clicking it, **or**
 3. For full functionality (recommended), serve it locally, e.g. using the VS Code "Live Server" extension, then open it at `http://127.0.0.1:5500/`.
 No account, API key, or internet connection is required after the page loads (aside from loading the Google Fonts used for styling).
@@ -51,8 +51,8 @@ No account, API key, or internet connection is required after the page loads (as
 ## Repository Structure
  
 ```
-├── Chain Of Custody Web App.html   # The complete application (HTML + CSS + JS)
-├── CY376_Chain_of_Custody_Report.pdf   # Full project report
+├── Chain-Of-Custody-Web-App.html   # The complete application (HTML + CSS + JS)
+├── Chain_of_Custody_Report_CY376.pdf   # Full project report
 └── README.md
 ```
  
