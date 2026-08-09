@@ -1,0 +1,19 @@
+# Editor/OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment and dependency folders (if added later)
+node_modules/
+venv/
+.env
+
+# Secrets and credentials — never commit these
+*.key
+*.pem
+credentials.json
+config.local.js
+
+# Large capture files (if any packet captures are added later)
+*.pcap
+*.pcapng
